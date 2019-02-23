@@ -1,4 +1,4 @@
-ACER@ALZARO c:\xampp
+
 Aktifkan XAMPP
 -start Apache 
 -start MySQL
